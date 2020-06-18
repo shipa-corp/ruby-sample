@@ -1,0 +1,3 @@
+hooks:
+  build:
+    - ruby hook.rb
