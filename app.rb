@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Hello from Shipa"
+  "Hello from Shipa with Ruby"
 end
